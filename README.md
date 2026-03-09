@@ -36,5 +36,6 @@ build_flags =
     -D ARDUINO_USB_CDC_ON_BOOT=1
     -D CONFIG_BT_NIMBLE_MAX_BONDINGS=5
     -D USE_NIMBLE
+```
 
 ## [Please check the wiki for more details.](https://github.com/IkJuLim/PageTurner/wiki)
